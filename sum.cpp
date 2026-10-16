@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int sum()
+int main()
 {
 	int integer1 = 50;
 	int integer2 = 100;
